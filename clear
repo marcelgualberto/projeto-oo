@@ -1,0 +1,120 @@
+backend/.gitignore[36m:[m!**/src/[1;31mtes[mt/**/target/
+backend/.gitignore[36m:[m!**/src/[1;31mtes[mt/**/build/
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m          <tags>persp.viewSC:org.eclipse.ui.texteditor.Templa[1;31mtes[mView</tags>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m                  <children xsi:type="advanced:Placeholder" xmi:id="__pdx8Q8kEeyCIuKePIVxpw" elementId="org.eclipse.ui.texteditor.Templa[1;31mtes[mView" toBeRendered="false" ref="__pVPAg8kEeyCIuKePIVxpw" closeable="true">
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m    <sharedElements xsi:type="basic:Part" xmi:id="__pVPAg8kEeyCIuKePIVxpw" elementId="org.eclipse.ui.texteditor.Templa[1;31mtes[mView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Templa[1;31mtes[m" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/templa[1;31mtes[m.png" tooltip="" closeable="true">
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m      <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.texteditor.templa[1;31mtes[m.Templa[1;31mtes[mView"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <descriptors xmi:id="__S320Q8kEeyCIuKePIVxpw" elementId="org.eclipse.ui.texteditor.Templa[1;31mtes[mView" label="Templa[1;31mtes[m" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/templa[1;31mtes[m.png" tooltip="" category="General" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m    <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.texteditor.templa[1;31mtes[m.Templa[1;31mtes[mView"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__B-7Og8kEeyCIuKePIVxpw" elementId="org.eclipse.debug.ui.commands.ToggleLineBreakpoint" commandName="Toggle Line Breakpoint" description="Crea[1;31mtes[m or removes a line breakpoint" category="__B9GCw8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__B_iSg8kEeyCIuKePIVxpw" elementId="org.eclipse.jdt.debug.ui.commands.ToggleTracepoint" commandName="Toggle Tracepoint" description="Crea[1;31mtes[m or removes a tracepoint  " category="__B9GCw8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__B_iUw8kEeyCIuKePIVxpw" elementId="org.eclipse.ui.edit.text.removeTrailingWhi[1;31mtes[mpace" commandName="Remove Trailing Whi[1;31mtes[mpace" description="Removes the trailing whi[1;31mtes[mpace of each line" category="__B9F_g8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CAJUg8kEeyCIuKePIVxpw" elementId="org.eclipse.debug.ui.commands.ToggleBreakpoint" commandName="Toggle Breakpoint" description="Crea[1;31mtes[m or removes a breakpoint" category="__B9GCw8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CAJWA8kEeyCIuKePIVxpw" elementId="org.eclipse.ui.edit.text.toggleShowWhi[1;31mtes[mpaceCharacters" commandName="Show Whi[1;31mtes[mpace Characters" description="Shows whi[1;31mtes[mpace characters in current text editor" category="__B9F-Q8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CAwXg8kEeyCIuKePIVxpw" elementId="org.eclipse.epp.mpc.ui.command.importFavori[1;31mtes[mWizard" commandName="Import Marketplace Favori[1;31mtes[m" description="Import another user's Marketplace Favori[1;31mtes[m List" category="__B9tAg8kEeyCIuKePIVxpw">
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m    <parameters xmi:id="__CAwXw8kEeyCIuKePIVxpw" elementId="favori[1;31mtes[mUrl" name="favori[1;31mtes[mUrl"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CBXfA8kEeyCIuKePIVxpw" elementId="org.eclipse.pde.ui.createAntBuildFile" commandName="Create Ant Build File" description="Crea[1;31mtes[m an Ant build file for the current project" category="__B9tAg8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CB-nw8kEeyCIuKePIVxpw" elementId="org.eclipse.egit.ui.RepositoriesToggleBranchCommit" commandName="Toggle La[1;31mtes[mt Branch Commit" category="__B9GDQ8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CClkA8kEeyCIuKePIVxpw" elementId="org.eclipse.ui.edit.text.copyLineDown" commandName="Copy Lines" description="Duplica[1;31mtes[m the selected lines and moves the selection to the copy" category="__B9F-Q8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CClvg8kEeyCIuKePIVxpw" elementId="org.eclipse.jdt.ui.edit.text.java.generate.hashcode.equals" commandName="Generate hashCode() and equals()" description="Genera[1;31mtes[m hashCode() and equals() methods for the type" category="__B9GEg8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CDM4g8kEeyCIuKePIVxpw" elementId="org.eclipse.egit.ui.RepositoriesViewCreateRepository" commandName="Create a Git Repository..." description="Crea[1;31mtes[m a new Git repository and adds it to the Git Repositories view" category="__B9GDQ8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CDzow8kEeyCIuKePIVxpw" elementId="org.eclipse.debug.ui.commands.ToggleWatchpoint" commandName="Toggle Watchpoint" description="Crea[1;31mtes[m or removes a watchpoint" category="__B9GCw8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CEa7g8kEeyCIuKePIVxpw" elementId="org.eclipse.pde.updateUnitVersions" commandName="Update IU Versions from Repositories" description="Update to la[1;31mtes[mt IU versions" category="__B9tAQ8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CEa9A8kEeyCIuKePIVxpw" elementId="org.eclipse.equinox.p2.ui.sdk.update" commandName="Check for Upda[1;31mtes[m" category="__B9tAg8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CEa_g8kEeyCIuKePIVxpw" elementId="org.eclipse.pde.ui.updateClasspath" commandName="Update Classpath" description="Upda[1;31mtes[m the plug-in classpath from la[1;31mtes[mt settings" category="__B9tAg8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CFB_w8kEeyCIuKePIVxpw" elementId="org.eclipse.epp.mpc.ui.command.showFavori[1;31mtes[m" commandName="Eclipse Marketplace Favori[1;31mtes[m" description="Open Marketplace Favori[1;31mtes[m" category="__B9tAg8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CFo5w8kEeyCIuKePIVxpw" elementId="org.eclipse.jdt.ui.generate.javadoc" commandName="Generate Javadoc" description="Genera[1;31mtes[m Javadoc for a selectable set of Java resources" category="__B9GBg8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CFo6g8kEeyCIuKePIVxpw" elementId="org.eclipse.buildship.ui.shortcut.[1;31mtes[mt.run" commandName="Run Gradle Test" description="Run Gradle [1;31mtes[mt based on the current selection" category="__B9GCw8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CFo9A8kEeyCIuKePIVxpw" elementId="org.eclipse.jdt.ui.edit.text.java.generate.tostring" commandName="Generate toString()" description="Genera[1;31mtes[m the toString() method for the type" category="__B9GEg8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CFpDg8kEeyCIuKePIVxpw" elementId="org.eclipse.ui.edit.text.copyLineUp" commandName="Duplicate Lines" description="Duplica[1;31mtes[m the selected lines and leaves the selection unchanged" category="__B9F-Q8kEeyCIuKePIVxpw"/>
+backend/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi[36m:[m  <commands xmi:id="__CFpDw8kEeyCIuKePIVxpw" elementId="org.eclipse.debug.ui.commands.ToggleMethodBreakpoint" commandName="Toggle Method Breakpoint" description="Crea[1;31mtes[m or removes a method breakpoint" category="__B9GCw8kEeyCIuKePIVxpw"/>
+backend/mvnw[36m:[m# concatena[1;31mtes[m all lines of a file
+backend/pom.xml[36m:[m			<artifactId>spring-boot-starter-[1;31mtes[mt</artifactId>
+backend/pom.xml[36m:[m			<scope>[1;31mtes[mt</scope>
+backend/pom.xml[36m:[m			<artifactId>spring-security-[1;31mtes[mt</artifactId>
+backend/pom.xml[36m:[m			<scope>[1;31mtes[mt</scope>
+backend/src/test/java/com/arth/dsvendas/DsvendasApplicationTests.java[36m:[mimport org.springframework.boot.[1;31mtes[mt.context.SpringBootTest;
+frontend/.gitignore[36m:[m# [1;31mtes[mting
+frontend/.gitignore[36m:[m.env.[1;31mtes[mt.local
+frontend/README.md[36m:[m### `yarn [1;31mtes[mt`
+frontend/README.md[36m:[mLaunches the [1;31mtes[mt runner in the interactive watch mode.\
+frontend/README.md[36m:[mSee the section about [running [1;31mtes[mts](https://facebook.github.io/create-react-app/docs/running-[1;31mtes[mts) for more information.
+frontend/package.json[36m:[m    "@[1;31mtes[mting-library/jest-dom": "^5.11.4",
+frontend/package.json[36m:[m    "@[1;31mtes[mting-library/react": "^11.1.0",
+frontend/package.json[36m:[m    "@[1;31mtes[mting-library/user-event": "^12.1.10",
+frontend/package.json[36m:[m    "[1;31mtes[mt": "react-scripts [1;31mtes[mt",
+frontend/yarn.lock[36m:[m    "@jest/[1;31mtes[mt-result" "^26.6.2"
+frontend/yarn.lock[36m:[m    "@jest/[1;31mtes[mt-result" "^26.6.2"
+frontend/yarn.lock[36m:[m    callsi[1;31mtes[m "^3.0.0"
+frontend/yarn.lock[36m:[m"@jest/[1;31mtes[mt-result@^26.6.0", "@jest/[1;31mtes[mt-result@^26.6.2":
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/@jest/[1;31mtes[mt-result/-/[1;31mtes[mt-result-26.6.2.tgz#55da58b62df134576cc95476efa5f7949e3f5f18"
+frontend/yarn.lock[36m:[m"@jest/[1;31mtes[mt-sequencer@^26.6.3":
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/@jest/[1;31mtes[mt-sequencer/-/[1;31mtes[mt-sequencer-26.6.3.tgz#98e8a45100863886d074205e8ffdc5a7eb582b17"
+frontend/yarn.lock[36m:[m    "@jest/[1;31mtes[mt-result" "^26.6.2"
+frontend/yarn.lock[36m:[m    pira[1;31mtes[m "^4.0.1"
+frontend/yarn.lock[36m:[m"@[1;31mtes[mting-library/dom@^7.28.1":
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/@[1;31mtes[mting-library/dom/-/dom-7.31.2.tgz#df361db38f5212b88555068ab8119f5d841a8c4a"
+frontend/yarn.lock[36m:[m"@[1;31mtes[mting-library/jest-dom@^5.11.4":
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/@[1;31mtes[mting-library/jest-dom/-/jest-dom-5.14.1.tgz#8501e16f1e55a55d675fe73eecee32cdaddb9766"
+frontend/yarn.lock[36m:[m    "@types/[1;31mtes[mting-library__jest-dom" "^5.9.1"
+frontend/yarn.lock[36m:[m"@[1;31mtes[mting-library/react@^11.1.0":
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/@[1;31mtes[mting-library/react/-/react-11.2.7.tgz#b29e2e95c6765c815786c0bc1d5aed9cb2bf7818"
+frontend/yarn.lock[36m:[m    "@[1;31mtes[mting-library/dom" "^7.28.1"
+frontend/yarn.lock[36m:[m"@[1;31mtes[mting-library/user-event@^12.1.10":
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/@[1;31mtes[mting-library/user-event/-/user-event-12.8.3.tgz#1aa3ed4b9f79340a1e1836bc7f57c501e838704a"
+frontend/yarn.lock[36m:[m"@types/[1;31mtes[mting-library__jest-dom@^5.9.1":
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/@types/[1;31mtes[mting-library__jest-dom/-/[1;31mtes[mting-library__jest-dom-5.14.1.tgz#014162a5cee6571819d48e999980694e2f657c3c"
+frontend/yarn.lock[36m:[m    [1;31mtes[mt-exclude "^6.0.0"
+frontend/yarn.lock[36m:[m    by[1;31mtes[m "3.1.0"
+frontend/yarn.lock[36m:[m    evp_by[1;31mtes[mtokey "^1.0.3"
+frontend/yarn.lock[36m:[m    evp_by[1;31mtes[mtokey "^1.0.0"
+frontend/yarn.lock[36m:[m    randomby[1;31mtes[m "^2.0.1"
+frontend/yarn.lock[36m:[mby[1;31mtes[m@3.0.0:
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/by[1;31mtes[m/-/by[1;31mtes[m-3.0.0.tgz#d32815404d689699f85a4ea4fa8755dd13a96048"
+frontend/yarn.lock[36m:[mby[1;31mtes[m@3.1.0:
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/by[1;31mtes[m/-/by[1;31mtes[m-3.1.0.tgz#f6cf7933a360e0588fa9fde85651cdc7f805d1f6"
+frontend/yarn.lock[36m:[m    callsi[1;31mtes[m "^2.0.0"
+frontend/yarn.lock[36m:[mcallsi[1;31mtes[m@^2.0.0:
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/callsi[1;31mtes[m/-/callsi[1;31mtes[m-2.0.0.tgz#06eb84f00eea413da86affefacbffb36093b3c50"
+frontend/yarn.lock[36m:[mcallsi[1;31mtes[m@^3.0.0:
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/callsi[1;31mtes[m/-/callsi[1;31mtes[m-3.1.0.tgz#b3630abd8943432f54b3f0519238e33cd7df2f73"
+frontend/yarn.lock[36m:[m    by[1;31mtes[m "3.0.0"
+frontend/yarn.lock[36m:[m    randomby[1;31mtes[m "^2.0.0"
+frontend/yarn.lock[36m:[m    postcss-discard-duplica[1;31mtes[m "^4.0.2"
+frontend/yarn.lock[36m:[m    postcss-normalize-whi[1;31mtes[mpace "^4.0.2"
+frontend/yarn.lock[36m:[m    randomby[1;31mtes[m "^2.0.0"
+frontend/yarn.lock[36m:[meslint-plugin-[1;31mtes[mting-library@^3.9.2:
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/eslint-plugin-[1;31mtes[mting-library/-/eslint-plugin-[1;31mtes[mting-library-3.10.1.tgz#4dd02306d601c3238fdabf1d1dbc5f2a8e85d531"
+frontend/yarn.lock[36m:[mevp_by[1;31mtes[mtokey@^1.0.0, evp_by[1;31mtes[mtokey@^1.0.3:
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/evp_by[1;31mtes[mtokey/-/evp_by[1;31mtes[mtokey-1.0.3.tgz#7fcbdb198dc71959432efe13842684e0525acb02"
+frontend/yarn.lock[36m:[m    "@jest/[1;31mtes[mt-result" "^26.6.0"
+frontend/yarn.lock[36m:[m    "@jest/[1;31mtes[mt-result" "^26.6.2"
+frontend/yarn.lock[36m:[m    "@jest/[1;31mtes[mt-sequencer" "^26.6.3"
+frontend/yarn.lock[36m:[m    "@jest/[1;31mtes[mt-result" "^26.6.2"
+frontend/yarn.lock[36m:[m    "@jest/[1;31mtes[mt-result" "^26.6.2"
+frontend/yarn.lock[36m:[m    "@jest/[1;31mtes[mt-result" "^26.6.2"
+frontend/yarn.lock[36m:[m    "@jest/[1;31mtes[mt-result" "^26.6.2"
+frontend/yarn.lock[36m:[m    lodash.templa[1;31mtes[mettings "^4.0.0"
+frontend/yarn.lock[36m:[mlodash.templa[1;31mtes[mettings@^4.0.0:
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/lodash.templa[1;31mtes[mettings/-/lodash.templa[1;31mtes[mettings-4.2.0.tgz#e481310f049d3cf6d47e912ad09313b154f0fb33"
+frontend/yarn.lock[36m:[m    callsi[1;31mtes[m "^3.0.0"
+frontend/yarn.lock[36m:[m    evp_by[1;31mtes[mtokey "^1.0.0"
+frontend/yarn.lock[36m:[mpira[1;31mtes[m@^4.0.1:
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/pira[1;31mtes[m/-/pira[1;31mtes[m-4.0.1.tgz#643a92caf894566f91b2b986d2c66950a8e2fb87"
+frontend/yarn.lock[36m:[mpostcss-discard-duplica[1;31mtes[m@^4.0.2:
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/postcss-discard-duplica[1;31mtes[m/-/postcss-discard-duplica[1;31mtes[m-4.0.2.tgz#3fe133cd3c82282e550fc9b239176a9207b784eb"
+frontend/yarn.lock[36m:[mpostcss-normalize-whi[1;31mtes[mpace@^4.0.2:
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/postcss-normalize-whi[1;31mtes[mpace/-/postcss-normalize-whi[1;31mtes[mpace-4.0.2.tgz#bf1d4070fe4fcea87d1348e825d8cc0c5faa7d82"
+frontend/yarn.lock[36m:[mpretty-by[1;31mtes[m@^5.3.0:
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/pretty-by[1;31mtes[m/-/pretty-by[1;31mtes[m-5.6.0.tgz#356256f643804773c82f64723fe78c92c62beaeb"
+frontend/yarn.lock[36m:[m    randomby[1;31mtes[m "^2.0.1"
+frontend/yarn.lock[36m:[mrandomby[1;31mtes[m@^2.0.0, randomby[1;31mtes[m@^2.0.1, randomby[1;31mtes[m@^2.0.5, randomby[1;31mtes[m@^2.1.0:
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/randomby[1;31mtes[m/-/randomby[1;31mtes[m-2.1.0.tgz#df6f84372f0270dc65cdf6291349ab7a473d4f2a"
+frontend/yarn.lock[36m:[m    randomby[1;31mtes[m "^2.0.5"
+frontend/yarn.lock[36m:[m    by[1;31mtes[m "3.1.0"
+frontend/yarn.lock[36m:[m    eslint-plugin-[1;31mtes[mting-library "^3.9.2"
+frontend/yarn.lock[36m:[m    randomby[1;31mtes[m "^2.1.0"
+frontend/yarn.lock[36m:[m    randomby[1;31mtes[m "^2.1.0"
+frontend/yarn.lock[36m:[m[1;31mtes[mt-exclude@^6.0.0:
+frontend/yarn.lock[36m:[m  resolved "https://registry.yarnpkg.com/[1;31mtes[mt-exclude/-/[1;31mtes[mt-exclude-6.0.0.tgz#04a8698661d805ea6fa293b6cb9e63ac044ef15e"
+frontend/yarn.lock[36m:[m    pretty-by[1;31mtes[m "^5.3.0"
